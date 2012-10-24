@@ -1,0 +1,1 @@
+This is a repository of basic programming projects from my COMP 1210 class
